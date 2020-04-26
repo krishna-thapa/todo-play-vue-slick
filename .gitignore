@@ -1,3 +1,10 @@
+#gitignore for the front-end side
+.DS_Store
+vue-ui/node_modules
+vue-ui/package-lock.json
+/dist
+
+#gitignore for the back-end side
 logs
 target
 .idea
